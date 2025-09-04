@@ -1,8 +1,8 @@
 // src/config.ts
-export const contractAddress = "0xF044F3cB3d31BD7131542eDAe10b0e4F090810b8";
+export const raindropEscrowAddress = "0xF044F3cB3d31BD7131542eDAe10b0e4F090810b8";
 
 // The full ABI from your compiled contract's JSON file
-export const contractABI = [
+export const raindropEscrowABI  = [
 	{
 		"inputs": [
 			{
